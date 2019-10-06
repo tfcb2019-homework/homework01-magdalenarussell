@@ -52,6 +52,8 @@ Commit changes and publish to your public GitHub repository. Locate the URL of t
 
 [https://github.com/magdalenarussell/tfcb-homework01/commits/master]
 
+-- See commits made on October 4, 2019
+
 ## Problem 4
 
 **10 points**
